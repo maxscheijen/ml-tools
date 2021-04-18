@@ -4,6 +4,12 @@ This repository contains a curated list of tools, frameworks, and packages for b
 
 ![](https://img.shields.io/github/contributors/maxscheijen/ml-tools?color=green)
 
+## Data
+
+1. **[DVC](https://dvc.org)**: tool for data versioning `python`.
+2. **[Doccano](https://github.com/doccano/doccano)**: text annotation tool for machine learning `python`.
+3. **[Great Expectations](https://greatexpectations.io)**: tool for validating, documenting and profiling data `python`.
+
 ## Modeling
 
 1. **[scikit-learn](https://scikit-learn.org/)**: a general purpose machine learning framework `python`.
