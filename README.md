@@ -2,7 +2,7 @@
 
 This repository contains a curated list of tools, frameworks, and packages for building and deploying machine learning systems.
 
-![](https://img.shields.io/github/contributors/maxscheijen/ml-tools?color=green)
+![contributors](https://img.shields.io/github/contributors/maxscheijen/ml-tools?color=green)
 
 ## Data
 
