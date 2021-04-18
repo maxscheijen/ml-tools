@@ -15,3 +15,8 @@ This repository contains a curated list of tools, frameworks, and packages for b
 
 1. **[MLFlow](https://mlflow.org/)**: platform to manage the machine learning lifecycle `python`.
 2. **[Weights & Biases](https://wandb.ai/)**: tool for tracking machine learning projects `python`.
+
+## Hyperparameter tuning
+
+1. **[Optuna](https://optuna.org)**: hyperparameter optimization framework to automate hyperparameter search `python`.
+2. **[Hyperopt](http://hyperopt.github.io/hyperopt/)**: distributed asynchronous hyperparameter optimization `python`.
