@@ -31,3 +31,7 @@ This repository contains a curated list of tools, frameworks, and packages for b
 
 1. **[Prometheus](https://prometheus.io)**: event monitoring and alerting `Go`.
 2. **[Grafana](https://github.com/grafana/grafana)**: interactive visualization web application `Go`, `Typescript`.
+
+## Interaces
+
+1. **[Streamlit](https://streamlit.io/)**: Sapp framework for building machine Learning and data science apps `Python` `TypeScript`.
